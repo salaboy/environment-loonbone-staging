@@ -2,6 +2,9 @@ dependencies:
 - name: conference-site
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.9
+- name: conference-sponsors
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.17
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
