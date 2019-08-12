@@ -1,4 +1,7 @@
 dependencies:
+- name: cdf-conference-site
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: conference-agenda
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.23
