@@ -5,6 +5,9 @@ dependencies:
 - name: conference-agenda
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.23
+- name: conference-monolith
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.10
 - name: conference-site
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.13
